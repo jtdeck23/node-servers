@@ -1,0 +1,19 @@
+{
+  "name": "servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtdeck23/node-servers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtdeck23/node-servers/issues"
+  },
+  "homepage": "https://github.com/jtdeck23/node-servers#readme"
+}
