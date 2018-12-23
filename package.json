@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jtdeck23/node-servers/issues"
   },
-  "homepage": "https://github.com/jtdeck23/node-servers#readme"
+  "homepage": "https://github.com/jtdeck23/node-servers#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "hbs": "^4.0.0"
+  }
 }
