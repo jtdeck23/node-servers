@@ -47,6 +47,13 @@ app.get('/about', (req, res) => {
     });
 });
 
+app.get('/projects', (req, res) => {
+    res.render('projects.hbs', {
+        pageTitle: 'Projects',
+        currProjs: 'node server project'
+    });
+});
+
 app.get('/bad', (req, res) => {
     res.send({
         error: 'Cannot find page'
